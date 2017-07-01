@@ -1,6 +1,7 @@
 ---
 title: 'The Rise of Spaces!'
 categories:
+  - test
 date: 2017-07-01 23:30:00
 featured_image: /uploads/andromedabackground.jpg
 ---
