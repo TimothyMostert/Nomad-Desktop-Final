@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: Nomad Desktop
 url: "https://spring-bat.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Digital Nomad blog, resources and tools
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Tim Mostert
+  email: resident@hotmail.co.za
+  twitter: nomadwebworks
 social:
-  name: Treat Template
+  name: Nomad Webworks
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://nomadwebworks.com
 
 # -----
 # Build

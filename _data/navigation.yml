@@ -1,8 +1,6 @@
-- name: Home
+- name: Blog
   link: /
 - name: About
   link: /about/
-- name: Recipes
-  link: /recipes/
 - name: Contact
   link: /contact/
