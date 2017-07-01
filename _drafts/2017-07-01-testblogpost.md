@@ -2,7 +2,7 @@
 title: TestBlogPost
 categories:
   - test
-date:
+date: 2017-07-01 11:25:00
 featured_image: /uploads/code-on-screen.jpg
 ---
 
