@@ -3,7 +3,7 @@ title: TestBlogPost
 categories:
   - test
 date:
-featured_image: /uploads/andromedabackground.jpg
+featured_image: /uploads/code-on-screen.jpg
 ---
 
 
