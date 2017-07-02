@@ -92,7 +92,12 @@ legend {
 	justify-content: space-between;
 
 	.split {
-		flex: 0 0 380px;
+		@media (max-width:450px) {
+			flex: 0 0 290px;
+		}
+		@media (min-width:450px) {
+			flex: 0 0 380px;
+		}
 	}
 }
 
