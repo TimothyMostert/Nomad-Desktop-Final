@@ -4,7 +4,7 @@
 title: Nomad Desktop
 url: "https://spring-bat.cloudvent.net/"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-100763155-2
 newsletter_action: "//your-mailchimp-action-url.com"
 disqus_shortname:
 
